@@ -10,6 +10,7 @@ import seaborn as sns
 
 
 # Establishing connection with twitter. The below are the required access from twitter to connect to the twitter API
+#Insert your own credentials inside the quotation marks.
 consumer_key = '###############'
 consumer_secret = '##########################'
 access_token = '######################'
