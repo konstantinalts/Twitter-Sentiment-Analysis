@@ -10,10 +10,10 @@ import seaborn as sns
 
 
 # Establishing connection with twitter. The below are the required access from twitter to connect to the twitter API
-consumer_key = '4Ta3F7hc8tYTd6stQvdhUSHyJ'
-consumer_secret = 'JnHJNTPKDpXOebua5KflB6vOorCOeGAx041OPm1t87aYq7YQYt'
-access_token = '1221851180617424898-pvoOU1NnmBCURfD6pNS9PNNlcmItDH'
-access_token_secret = 'SyOBpEawl2Bde9b6ZqejD2lSj6sRhOl87m559LpfaIZU8'
+consumer_key = '###############'
+consumer_secret = '##########################'
+access_token = '######################'
+access_token_secret = '######################'
 
 
 #Connecting with mySQL database for creating table TWEETS
